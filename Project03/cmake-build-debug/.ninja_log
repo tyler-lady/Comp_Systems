@@ -1,0 +1,5 @@
+# ninja log v5
+0	81	7239403551418907	CMakeFiles/Project03.dir/main.c.obj	9e8fb97f0be2a9de
+2	60	7239551956454439	CMakeFiles/Project03.dir/float.c.obj	410137e6e5e479d6
+0	131	7239589655182567	build.ninja	aa14ef6c03e88dd7
+60	117	7239551957002970	Project03.exe	c85b2a265ca86416

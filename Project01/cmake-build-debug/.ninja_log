@@ -1,0 +1,4 @@
+# ninja log v5
+1	45	7235863500128616	CMakeFiles/Project01.dir/main.c.obj	8208afd9f55a2015
+2	48	7235848158378716	CMakeFiles/Project01.dir/controller.c.obj	b52bec7f1c3c2301
+45	100	7235863500657571	Project01.exe	dcba26f65b6c45e
